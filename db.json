@@ -1,0 +1,323 @@
+{
+    "Filme_Serie": [
+      {
+        "id": 1,
+        "tipo":"filme",
+        "nome": "O Poderoso Chefão",
+        "ano_lancamento": 1972,
+        "classificacao": "16+",
+        "genero": "Crime",
+        "avaliacao": "9.2/10",
+        "imagem_url":"poderoso_chefao.jpg",
+        "sinopse": "A saga de uma família mafiosa italiana nos Estados Unidos, liderada por Don Vito Corleone."
+      },
+      {
+        "id": 2,
+        "tipo":"filme",
+        "nome": "Interestelar",
+        "ano_lancamento": 2014,
+        "classificacao": "10+",
+        "genero": "Ficção Científica",
+        "avaliacao": "8.6/10",
+        "imagem_url":"interestelar.jpg",
+        "sinopse": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+      },
+      {
+        "id": 3,
+        "tipo":"filme",
+        "nome": "Cidade de Deus",
+        "ano_lancamento": 2002,
+        "classificacao": "18+",
+        "genero": "Drama",
+        "avaliacao": "8.6/10",
+        "imagem_url":"cidade_de_deus.jpg",
+        "sinopse": "A vida na favela Cidade de Deus, onde dois jovens escolhem caminhos diferentes: um vira fotógrafo, o outro traficante."
+      },
+      {
+        "id": 4,
+        "tipo":"filme",
+        "nome": "Titanic",
+        "ano_lancamento": 1997,
+        "classificacao": "12+",
+        "genero": "Romance",
+        "avaliacao": "7.8/10",
+        "imagem_url":"titanic.jpg",
+        "sinopse": "Um romance proibido entre um artista e uma aristocrata a bordo do Titanic, que enfrenta um trágico naufrágio."
+      },
+      {
+        "id": 5,
+        "tipo":"filme",
+        "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "ano_lancamento": 2001,
+        "classificacao": "12+",
+        "genero": "Fantasia",
+        "avaliacao": "8.8/10",
+        "imagem_url":"senhor_dos_aneis.jpg",
+        "sinopse": "Um jovem hobbit chamado Frodo é encarregado de destruir um anel mágico que pode dominar o mundo."
+      },
+      {
+        "id": 6,
+        "tipo":"filme",
+        "nome": "Gladiador",
+        "ano_lancamento": 2000,
+        "classificacao": "16+",
+        "genero": "Ação",
+        "avaliacao": "8.5/10",
+        "imagem_url":"gladiador.jpg",
+        "sinopse": "Um general romano é traído e se torna um gladiador, buscando vingança contra o imperador corrupto."
+      },
+      {
+        "id": 7,
+        "tipo":"filme",
+        "nome": "Matrix",
+        "ano_lancamento": 1999,
+        "classificacao": "14+",
+        "genero": "Ficção Científica",
+        "avaliacao": "8.7/10",
+        "imagem_url":"matrix.jpg",
+        "sinopse": "Um hacker descobre que a realidade é uma simulação controlada por máquinas e se junta à resistência."
+      },
+      {
+        "id": 8,
+        "tipo":"filme",
+        "nome": "O Rei Leão",
+        "ano_lancamento": 1994,
+        "classificacao": "Livre",
+        "genero": "Animação",
+        "avaliacao": "8.5/10",
+        "imagem_url":"rei_leao.jpg",
+        "sinopse": "Um jovem leão chamado Simba luta para retomar seu lugar como rei após a morte de seu pai."
+      },
+      {
+        "id": 9,
+        "tipo":"filme",
+        "nome": "Forrest Gump",
+        "ano_lancamento": 1994,
+        "classificacao": "12+",
+        "genero": "Comédia",
+        "avaliacao": "8.8/10",
+        "imagem_url":"forrest_gump.jpg",
+        "sinopse": "A vida de Forrest Gump, um homem simples com um QI abaixo da média, mas com uma vida extraordinária."
+      },
+      {
+        "id": 10,
+        "tipo":"filme",
+        "nome": "Pulp Fiction",
+        "ano_lancamento": 1994,
+        "classificacao": "18+",
+        "genero": "Crime",
+        "avaliacao": "8.9/10",
+        "imagem_url":"pulp_fiction.jpg",
+        "sinopse": "Uma história entrelaçada de crime, violência e humor negro em Los Angeles."
+      },
+      {
+        "id": 11,
+        "tipo":"filme",
+        "nome": "E.T. - O Extraterrestre",
+        "ano_lancamento": 1982,
+        "classificacao": "Livre",
+        "genero": "Ficção Científica",
+        "avaliacao": "7.8/10",
+        "imagem_url":"et.jpg",
+        "sinopse": "Um menino faz amizade com um alienígena perdido e tenta ajudá-lo a retornar para casa."
+      },
+      {
+        "id": 12,
+        "tipo":"filme",
+        "nome": "Os Infiltrados",
+        "ano_lancamento": 2006,
+        "classificacao": "16+",
+        "genero": "Crime",
+        "avaliacao": "8.5/10",
+        "imagem_url":"os_infiltrados.jpg",
+        "sinopse": "Um policial infiltrado na máfia e um criminoso infiltrado na polícia tentam descobrir um ao outro."
+      },
+      {
+        "id": 13,
+        "tipo":"filme",
+        "nome": "O Fabuloso Destino de Amélie Poulain",
+        "ano_lancamento": 2001,
+        "classificacao": "12+",
+        "genero": "Comédia",
+        "avaliacao": "8.3/10",
+        "imagem_url":"fabuloso_destino.jpg",
+        "sinopse": "Amélie decide melhorar a vida das pessoas ao seu redor, enquanto busca o amor verdadeiro."
+      },
+      {
+        "id": 14,
+        "tipo":"filme",
+        "nome": "O Labirinto do Fauno",
+        "ano_lancamento": 2006,
+        "classificacao": "16+",
+        "genero": "Fantasia",
+        "avaliacao": "8.2/10",
+        "imagem_url":"labirinto_do_fauno.jpg",
+        "sinopse": "Em uma Espanha pós-Guerra Civil, uma menina encontra um mundo mágico e perigoso em um labirinto."
+      },
+      {
+        "id": 15,
+        "tipo":"filme",
+        "nome": "Vingadores: Ultimato",
+        "ano_lancamento": 2019,
+        "classificacao": "12+",
+        "genero": "Ação",
+        "avaliacao": "8.4/10",
+        "imagem_url":"vingadores.jpg",
+        "sinopse": "Os Vingadores se reúnem para tentar reverter as ações devastadoras de Thanos e restaurar o universo."
+      },
+      {
+        "id": 16,
+        "tipo":"série",
+        "nome": "Breaking Bad",
+        "ano_lancamento": 2008,
+        "classificacao": "18+",
+        "genero": "Drama",
+        "avaliacao": "9.5/10",
+        "imagem_url":"breaking_bad.jpg",
+        "sinopse": "Um professor de química se torna um produtor de metanfetamina após ser diagnosticado com câncer."
+      },
+      {
+        "id": 17,
+        "tipo":"série",
+        "nome": "Friends",
+        "ano_lancamento": 1994,
+        "classificacao": "12+",
+        "genero": "Comédia",
+        "avaliacao": "8.9/10",
+        "imagem_url":"friends.jpg",
+        "sinopse": "Seis amigos enfrentam a vida adulta em Nova York, compartilhando risadas, amor e momentos memoráveis."
+      },
+      {
+        "id": 18,
+        "tipo":"série",
+        "nome": "Game of Thrones",
+        "ano_lancamento": 2011,
+        "classificacao": "18+",
+        "genero": "Fantasia",
+        "avaliacao": "9.3/10",
+        "imagem_url":"game_of_thrones.jpg",
+        "sinopse": "Nobreza, traição, guerra e dragões se entrelaçam em uma luta pelo trono dos Sete Reinos."
+      },
+      {
+        "id": 19,
+        "tipo":"série",
+        "nome": "Stranger Things",
+        "ano_lancamento": 2016,
+        "classificacao": "14+",
+        "genero": "Ficção Científica",
+        "avaliacao": "8.7/10",
+        "imagem_url":"stranger_things.jpg",
+        "sinopse": "Em uma cidade pequena, um grupo de crianças descobre experimentos secretos, forças sobrenaturais e um mundo paralelo."
+      },
+      {
+        "id": 20,
+        "tipo":"série",
+        "nome": "The Crown",
+        "ano_lancamento": 2016,
+        "classificacao": "16+",
+        "genero": "Histórico",
+        "avaliacao": "8.7/10",
+        "imagem_url":"the_crown.jpg",
+        "sinopse": "A vida da Rainha Elizabeth II é retratada desde seu casamento até os dias atuais."
+      },
+      {
+        "id": 21,
+        "tipo":"série",
+        "nome": "Sherlock",
+        "ano_lancamento": 2010,
+        "classificacao": "14+",
+        "genero": "Mistério",
+        "avaliacao": "9.1/10",
+        "imagem_url":"sherlock.jpg",
+        "sinopse": "O detetive Sherlock Holmes e seu parceiro, Dr. John Watson, solucionam crimes intrigantes em Londres."
+      },
+      {
+        "id": 22,
+        "tipo":"série",
+        "nome": "Black Mirror",
+        "ano_lancamento": 2011,
+        "classificacao": "16+",
+        "genero": "Ficção Científica",
+        "avaliacao": "8.8/10",
+        "imagem_url":"black_mirror.jpg",
+        "sinopse": "Uma série de antologia que explora os aspectos sombrios e perturbadores da tecnologia moderna."
+      },
+      {
+        "id": 23,
+        "tipo":"série",
+        "nome": "The Mandalorian",
+        "ano_lancamento": 2019,
+        "classificacao": "12+",
+        "genero": "Ação",
+        "avaliacao": "8.5/10",
+        "imagem_url":"mandalorian.jpg",
+        "sinopse": "Um caçador de recompensas solitário viaja pela galáxia, protegendo uma criança misteriosa."
+      },
+      {
+        "id": 24,
+        "tipo":"série",
+        "nome": "The Witcher",
+        "ano_lancamento": 2019,
+        "classificacao": "16+",
+        "genero": "Fantasia",
+        "avaliacao": "8.6/10",
+        "imagem_url":"the_witcher.jpg",
+        "sinopse": "O caçador de monstros Geralt de Rivia luta para encontrar seu lugar em um mundo dividido entre homens e monstros."
+      },
+      {
+        "id": 25,
+        "tipo":"série",
+        "nome": "La Casa de Papel",
+        "ano_lancamento": 2017,
+        "classificacao": "16+",
+        "genero": "Crime",
+        "avaliacao": "8.3/10",
+        "imagem_url":"la_casa_de_papel.jpg",
+        "sinopse": "Um grupo de ladrões planeja o roubo perfeito à Casa da Moeda da Espanha."
+      },
+      {
+        "id": 26,
+        "tipo":"série",
+        "nome": "Peaky Blinders",
+        "ano_lancamento": 2013,
+        "classificacao": "18+",
+        "genero": "Drama",
+        "avaliacao": "8.8/10",
+        "imagem_url":"peaky_blinders.jpg",
+        "sinopse": "Uma família de gângsteres busca poder e influência em Birmingham, após a Primeira Guerra Mundial."
+      },
+      {
+        "id": 27,
+        "tipo":"série",
+        "nome": "Westworld",
+        "ano_lancamento": 2016,
+        "classificacao": "18+",
+        "genero": "Drama",
+        "avaliacao": "8.6/10",
+        "imagem_url":"westworld.jpg",
+        "sinopse": "Um parque temático avançado permite aos visitantes viverem suas fantasias mais selvagens com androides."
+      },
+      {
+        "id": 28,
+        "tipo":"série",
+        "nome": "The Office (US)",
+        "ano_lancamento": 2005,
+        "classificacao": "14+",
+        "genero": "Comédia",
+        "avaliacao": "8.5/10",
+        "imagem_url":"the_office.jpg",
+        "sinopse": "Um olhar cômico sobre o cotidiano de funcionários de um escritório através de um documentário fictício."
+      },
+      {
+        "id": 29,
+        "tipo":"série",
+        "nome": "Narcos",
+        "ano_lancamento": 2015,
+        "classificacao": "18+",
+        "genero": "Crime",
+        "avaliacao": "8.7/10",
+        "imagem_url":"narcos.jpg",
+        "sinopse": "A história real dos cartéis de drogas colombianos e a luta para combatê-los."
+      }
+    ]
+  }
