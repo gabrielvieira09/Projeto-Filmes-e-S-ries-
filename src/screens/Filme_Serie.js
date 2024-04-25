@@ -17,11 +17,11 @@ export default function Filme_Serie({route}){
         <View style={styles.container}>
             <StatusBar barStyle="light-content" backgroundColor="#131E2E" />
             
-            <TouchableOpacityb onPress={()=> navigation.navigate.goBack()}>
+            <TouchableOpacity onPress={()=> navigation.goBack()}>
             <AntDesign name="close" size={35} color="white"
             style={{margin:10}}
             />
-            </TouchableOpacityb>
+            </TouchableOpacity>
 
             <View style={{ alignItems:"center"}}>
                 <Image source={{uri:`http://10.0.2.2:3000/assets/${filmeSerie.imagem_url}`}}

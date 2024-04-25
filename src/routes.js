@@ -35,7 +35,7 @@ export default function Routes() {
       screenOptions={{
         headerShown: false,
       }}
-      initialRouteName="TabRoutes"
+      initialRouteName="Login"
     >
       <Stack.Screen name="Login" component={Login} />
       <Stack.Screen name="TabRoutes" component={TabRoutes} />
