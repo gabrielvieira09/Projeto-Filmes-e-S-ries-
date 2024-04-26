@@ -14,8 +14,8 @@ export default function Login() {
   const navigation = useNavigation();
 
   // Credenciais
-  const credentialsEmail = "123";
-  const credentialsPassword = "456";
+  const credentialsEmail = "senai@gmail.com";
+  const credentialsPassword = "123456";
 
   function handleSubmit() {
     setError("");
@@ -31,6 +31,7 @@ export default function Login() {
       setError("Credenciais invalidas");
       setEmail("");
       setPassword("");
+      return
     }
     navigation.navigate("TabRoutes")
   }
@@ -89,6 +90,7 @@ export default function Login() {
         Lembrar-me da Senha
       </Text>
 
+      
       <CustomButton title="Acessar" onPress={() => { handleSubmit() }} />
       {error && <Text style={styles.errorText}>{error}</Text>}
 
@@ -102,7 +104,11 @@ const styles = StyleSheet.create({
     alignItems: "center",
     backgroundColor: "#131e2e",
     margin: 0,
-    height:"100%"
+    height: "100%"
+  },
+  errorText:{
+    color: 'white',
+    marginTop: 16
   },
   input: {
     width: 385,
